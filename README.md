@@ -10,24 +10,12 @@
 <hr>
 <div align="center">
     <a href="https://github.com/drn-i">
-        <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=drn-i&show_icons=true&theme=tokyonight&hide_border=true" />
-        <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=drn-i&theme=tokyonight&hide_border=true" />
+        <img width="47.5%" src="https://github-readme-stats-drn-i.vercel.app/api?username=drn-i&theme=tokyonight&layout=compact&hide_border=true&show_icons=true&show_github_logo=true" />
+        <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=drn-i&theme=tokyonight&hide_border=true" />
     </a>
-</div>
-<hr>
-<div align="center">
-        <a href="https://github.com/drn-i">
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=drn-i&langs_count=6&theme=tokyonight&layout=compact&hide_border=true"
+    <br>
+    <a href="https://github.com/drn-i">
+            <img src="https://github-readme-stats-drn-i.vercel.app/api/top-langs/?username=drn-i&langs_count=6&theme=tokyonight&layout=compact&hide_border=true"
             alt="drn-i :: overall Top Langs " />
             </a>
-</div>
-<div align="center">
-        <a href="https://github.com/drn-i">
-            <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=drn-i&theme=tokyonight&layout=compact&hide_border=true"
-            alt="drn-i :: Top Langs by repo" /> 
-        </a>
-        <a href="https://github.com/drn-i">
-            <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=drn-i&theme=tokyonight&layout=compact&hide_border=true"
-            alt="drn-i :: Top Langs by commit" />
-        </a>
 </div>
