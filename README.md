@@ -10,7 +10,7 @@
 <hr>
 <div align="center">
     <a href="https://github.com/drn-i">
-        <img width="47.5%" src="https://github-readme-stats-drn-i.vercel.app/api?username=drn-i&theme=tokyonight&layout=compact&hide_border=true&show_icons=true&show_github_logo=true" />
+        <img width="47.5%" src="https://github-readme-stats-drn-i.vercel.app/api?username=drn-i&theme=tokyonight&layout=compact&hide_border=true&show_icons=true&include_all_commits=true" />
         <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=drn-i&theme=tokyonight&hide_border=true" />
     </a>
     <br>
