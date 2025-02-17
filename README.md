@@ -1,6 +1,6 @@
 <div align="center">
     <h1 align="center">Hi <img width="30" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif" alt="">, I'm 𝒉𝒂𝘀𝘀𝒂𝒏</h1>
-    <h4 align="center">a Network Engineering student, Unity & UE5 Game developer.</h4>
+    <h4 align="center">A Cloud & Game Dev Enthusiast, Junior NetEng Student | AWS DVA & DevOps Pro | GitHub Certified</h4>
 </div>
 <!--Second-->
 <div align="center">
