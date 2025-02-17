@@ -2,11 +2,6 @@
     <h1 align="center">Hi <img width="30" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif" alt="">, I'm 𝒉𝒂𝘀𝘀𝒂𝒏</h1>
     <h4 align="center">A Cloud & Game Dev Enthusiast, Junior NetEng Student | AWS DVA & DevOps Pro | GitHub Certified</h4>
 </div>
-<!--Second-->
-<div align="center">
-    <!--I can add a link button here later...-->
-    <img src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg" alt="snake">
-</div>
 <hr>
 <div align="center">
     <a href="https://github.com/drn-i">
